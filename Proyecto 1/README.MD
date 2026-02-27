@@ -3,11 +3,11 @@
 <p align="center">
   <img src="logo-tec.png" width="180"/>
 </p>
----
 
-## ALUMNO
+
+## NOTA: Abrir archivo Capturas.pdf de este directorio, esta contiene capturas sobre el código en ejecución
 
 **Nombre:** Carlos Eduardo Angulo Inzunza  
 **Materia:** Ciencia de Datos 8:00 - 9:00  
-**Profesor:** ZURIEL DATHAN MORA FELIX
+**Profesor:** ZURIEL DATHAN MORA FELIX  
 **Fecha:** 26 Febrero 2026  
